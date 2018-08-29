@@ -10,7 +10,5 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://vequan23.github.io/book-list/",
-  "dependencies": {
-    "gh-pages": "^1.2.0"
-  }
+  "dependencies": {}
 }
