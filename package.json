@@ -7,16 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist "
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Vequan23/book-list.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Vequan23/book-list/issues"
-  },
-  "homepage": "https://Vequan23.github.io/book-list",
+  "homepage": "https://vequan23.github.io/book-list/",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
